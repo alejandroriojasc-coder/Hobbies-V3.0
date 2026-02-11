@@ -1,0 +1,10 @@
+article {
+    border: 2px solid black;
+    box-shadow: -5px 5px 10px navy;
+    margin-bottom: 20px;
+}
+
+article h4 {
+    color: white;
+    background-color: black;
+}
