@@ -8,3 +8,9 @@ article h4 {
     color: white;
     background-color: black;
 }
+
+section {
+    border: 2px solid black;
+    box-shadow: -5px 5px 5px navy;
+    margin-bottom: 10px;
+}
